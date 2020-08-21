@@ -1,0 +1,1 @@
+/Users/nomurashunta/works_personal/jUnitTest/build/classes/kotlin/main/Main.class
